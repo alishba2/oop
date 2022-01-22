@@ -1,0 +1,12 @@
+Account : 223
+Name: ASAD
+Balance: 245
+Account : 2
+Name: zarnab
+Balance: 20000
+Account : 3
+Name: areeba
+Balance: 40023
+Account : 4
+Name: kainat
+Balance: 4000

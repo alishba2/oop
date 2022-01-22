@@ -1,0 +1,4 @@
+c:1:wajiha:10000:10
+s:2:zarnab:20000:0.1
+s:3:areeba:40000:0.3
+c:4:kainat:4000:5

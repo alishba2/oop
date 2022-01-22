@@ -1,0 +1,6 @@
+b:c++:500:900
+t:book:200:45
+b:java:450:850
+b:english:300:100
+t:encylopedia:500:50
+t:documentary:600:10
